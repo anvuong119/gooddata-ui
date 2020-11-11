@@ -39,4 +39,4 @@ import { Datepicker } from "@gooddata/sdk-ui-kit";
 | onChange | false | Function | Called when selected date changes |
 | resetOnInvalidValue | false | boolean | Reset on invalid input |
 | locale | false | string | The localization of the chart. Defaults to `en-US`. For other languages, see the [full list of available localizations](https://github.com/gooddata/gooddata-ui-sdk/blob/master/libs/sdk-ui/src/base/localization/Locale.ts). |
-| dateFormat | false | string | Desired date format. Defaults to `MM/dd/yyyy` and can be any [format](https://date-fns.org/docs/format) supported by date-fns library |
+| dateFormat | false | string | Desired date format. Defaults to `MM/dd/yyyy` and can be any [format](https://date-fns.org/docs/format){:target="_blank" rel="noopener"} supported by date-fns library |
